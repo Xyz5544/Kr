@@ -14,8 +14,8 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", None)
 MONGO_URL = os.getenv("MONGO_URL", None)
 
 # Bot owner's Telegram user ID and username
-OWNER_ID = os.getenv("OWNER_ID",7044783841)
-OWNER_USERNAME = "JARVIS_V2"
+OWNER_ID = os.getenv("OWNER_ID",6356488333)
+OWNER_USERNAME = "its_ur_dev"
 
 # Support group and update channel names
 SUPPORT_GROUP = "meetup_zone"
