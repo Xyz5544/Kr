@@ -18,5 +18,5 @@ OWNER_ID = os.getenv("OWNER_ID",7044783841)
 OWNER_USERNAME = "JARVIS_V2"
 
 # Support group and update channel names
-SUPPORT_GROUP = "Dora_Hub"
-UPDATE_CHANNEL = "JARVIS_V_SUPPORT"
+SUPPORT_GROUP = "meetup_zone"
+UPDATE_CHANNEL = "ab_krishna_uff"
