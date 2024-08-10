@@ -1,12 +1,6 @@
 import logging 
 import time
 
-
-
-
-from pyrogram import Client
-from pyrogram.enums import ParseMode
-
 import config
 
 logging.basicConfig(
